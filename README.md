@@ -48,4 +48,4 @@ ejemplos, orientación sobre desarrollo móvil y una referencia completa de la A
 
 ### Clonar el Repositorio
 ```bash
-git clone https://github.com/usuario/flutter-registration-app.git
+git clone https://github.com/richarquispe-prog/reserva_restaurant
